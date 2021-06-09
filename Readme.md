@@ -25,17 +25,17 @@ Time to make an ale, borrowing a [Hobgoblin recipe]( https://www.themaltmiller.c
 6. Swap grain blocker for top plate, overflow inlet and lid
 7. Turn on pump for 60 minutes, maintaining 67C
 8. While waiting:
-   1. Clean boiler with VWP
-   2. Put sparging water on to boil 10 minutes before end of mash in. heat 4l to 75C
+   * Clean boiler with VWP
+   * Put sparging water on to boil 10 minutes before end of mash in. heat 4l to 75C
 9. Use 1900W heater to raise to 75C, keep there for 10 minutes
 10. Raise malt pipe, slowly rinse with 4l sparge water. Sparge evenly
 11. Raise to 98C with both elements while the grain drips dry
 12. Remove grain pipe, add lid, boil for 60 minutes. Use 1900W element
 13. Add goldings and Fuggles at 60 minutes (eg start)
 14. While waiting:
-    1. Clean grain pipe
-    2. Clean fermenter with VWP and rinse
-    3. Chemsan chiller and fermenter
+    * Clean grain pipe
+    * Clean fermenter with VWP and rinse
+    * Chemsan chiller and fermenter
 15. add cascade and styrian golding 15 minutes from end
 16. Add 5g moss 5 minutes before end
 17. Add pump pipe 5m from end to sanitise
@@ -56,17 +56,11 @@ Time to make an ale, borrowing a [Hobgoblin recipe]( https://www.themaltmiller.c
 ## Barreling day, 9/6/21
 
 1. Clean barrel and piping with VWP
-
 2. Carefully siphon beer into barrel, minimising splashing.
-
 3. 11l useable from 12l in fermenter
-
 4. Add 2.5g/l priming sugar = 30g.
-
 5. vaseline seal
-
 6. store in ~20C for 1 week
-
 7. store in ~12C for 7 weeks.
 
    ![barrel](barrel.jpg)
@@ -74,7 +68,7 @@ Time to make an ale, borrowing a [Hobgoblin recipe]( https://www.themaltmiller.c
 ## Lessons learned 
 
 - Don’t forget to add false bottom before the malt pipe. It seemed to survive but probably not a good idea.
-- Put sparging water on to heat in plenty of time so is hready for sparging as soon as the malt is.
+- Put sparging water on to heat in plenty of time so is ready for sparging as soon as the malt is.
 - Get some [lipohop](https://www.themaltmiller.co.uk/product/nbs-lipohop-k-15g/) to stop foaming during boil. 
 - 14l + 4 sparge = 12l at fermentation start, sufficient for 24 bottles.
 - 11l beer doesn't fit into a 10l fermenter! Calculate recipes accoridngly, 10l for barreling, 12l for bottling. Or just brew 12l and add the spare to 2 bottles.
